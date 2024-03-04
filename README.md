@@ -1,4 +1,4 @@
-![Stars](https://img.shields.io/github/stars/AlexSp3/Speed-Coding-Games-in-JavaScript)
+![Stars](https://img.shields.io/github/stars/AlexSp3/Speed-Coding-Games-in-JavaScript.svg)
 ![Downloads](https://img.shields.io/github/downloads/AlexSp3/Speed-Coding-Games-in-JavaScript/total.svg)
 [![License](https://img.shields.io/github/license/AlexSp3/Basenumber.js.svg)](LICENSE)
 ![Mantained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
